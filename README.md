@@ -1,3 +1,4 @@
 # Today I Learned
 
-- ## [Reading](./reading/clean-code.md)
+- ## Reading
+  - [Clean Code](./reading/clean-code.md)
